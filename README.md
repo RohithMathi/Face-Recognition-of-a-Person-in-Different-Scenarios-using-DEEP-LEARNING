@@ -1,1 +1,4 @@
 # Face-Recognition-of-a-Person-in-Different-Scenarios-using-DEEP-LEARNING
+
+
+In the image processing and computer vision domains  face detection and face recognition are the most sought applications. Face recognition has a wide range of applications and some of its performance has to be improved in unconstrained environments and environment surveillance. In this work, we will be identifying a person with different backgrounds  with different people around him and in different costumes which are useful for surveillance applications and HRI. we have proposed an algorithm to recognize a person by matching similarities between the two faces  using Siamese architecture. We have used the VGG-Face and MTCNN algorithms.This system gives the similarity score for both images   with 90 percent accuracy.
